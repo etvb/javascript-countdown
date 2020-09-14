@@ -5,3 +5,34 @@
 *{
   box-sizing: border-box;
 }
+
+body {
+  font-family: 'Cabin', sans-serif;
+  background-image: url('../sources/images/confetti.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  /* background-position: center; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h2{
+  font-size: 3rem;
+}
+
+.container{
+  display: flex;
+  text-align: center;
+}
+
+.bigText{
+  font-size: 4rem;
+  margin: 0 2rem;
+}
+
+.container span{
+  font-weight: 700;
+}
