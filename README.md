@@ -1,5 +1,6 @@
 # COUNTDOWN
 
+![countdown](countdown.png)
 _Proyecto en el cual tienes la fecha a alcanzar y la fecha actual. Por medio de javascript sacamos los dias, horas, minutos y segundos.
 
 ## Construido con 🛠️
